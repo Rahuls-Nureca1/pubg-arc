@@ -318,6 +318,6 @@ Troubleshooting.
 
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
-*pubg-arc · Updated 2026-10-30 · Shared under the MIT License*
+*pubg-arc · Updated 2026-10-31 · Shared under the MIT License*
 
-<!-- updated 2026-10-30 -->
+<!-- updated 2026-10-31 -->
